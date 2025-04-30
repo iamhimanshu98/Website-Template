@@ -7,5 +7,5 @@
 ![Dashboard](images/test.png)
 
 
-### 📊 Contact
+### 📱 Contact
 ![Contact](images/contact.png)
